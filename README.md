@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diwash Mainali</h1>
-<h3 align="center">A passionate AI developer from Nepal</h3>
+<h3 align="center">A passionate AI developer</h3>
 
 <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkNTMyMDU2NGIyY2E3NTMwMjkxYmU2MGZiNDdiYTQ5MWRmNTFmNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
