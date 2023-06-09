@@ -5,16 +5,12 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/diwash-mainali-b1825515a/)">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
-
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mainali123.mainali123&"  />
+  <img src="https://profile-counter.glitch.me/mainali123/count.svg?"  />
 </div>
 
 ###
@@ -98,12 +94,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mainali123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
